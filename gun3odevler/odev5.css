@@ -1,0 +1,39 @@
+body{
+    background-color: palevioletred;
+}
+
+.form{
+    background-color: violet;
+    margin: 200px 200px 200px 200px ;
+    padding: 20px 20px 20px 20px ;
+
+
+}
+
+#name{
+    text-align: center;
+}
+#email{
+    text-align: center;
+}
+#password{
+    text-align: center;
+}
+#phone{
+    text-align: center;
+}
+#gender{
+    text-align: center;
+}
+#language{
+    text-align: center;
+}
+#zip{
+    text-align: center;
+}
+#about{
+    text-align: center;
+}
+#submit{
+    text-align: center;
+}
